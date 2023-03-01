@@ -1,0 +1,189 @@
+.header
+{
+    background-color: #1d3b76;
+    width: 100%;
+    height: 100px;
+}
+body{
+    margin:0;
+    font-family: Arial, Helvetica Neue, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 10px;
+    float: left;
+}
+.login{
+    width:50%;
+    float: left;
+}
+.container{
+    height: 800px;
+}
+.logo-text{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica Neue, sans-serif;
+    margin-left:200px;
+}
+
+.login-in-label{
+    color:#9cb4d8;
+    font-size:11px;
+}
+.login-in-controls{
+    margin-left: 175px ;
+}
+.button{
+    background-color:  #4267b2;
+    color:#fff;
+    border:none;
+    cursor: pointer;
+
+}
+.button:hover{
+    
+    background-color:  #0a1c42;
+}
+
+.main-body{
+    background:linear-gradient(white,#d3d8e8);
+    width:100%;
+    height:600px;
+
+}
+.left-section{
+    width:50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+    
+}
+.right-section{
+    width:35%;
+    float:left;
+    padding-left: 22px;
+
+}
+.img{
+    width:581px
+}
+.paragraph{
+    font-weight: bold;
+    font-size: 21px;
+}
+.create-account{
+    margin-top: 38px;
+    
+}
+.quick-and-easy{
+    margin-top:-10px ;
+    
+    
+}
+.first-name{
+    width:140px;
+    height:20px;
+    border-radius: 4px;
+    
+}
+.surname{
+    width: 140px;
+    height: 20px;
+    border-radius: 4px;
+}
+.moblie{
+    width: 293px;
+    margin-top: 5px;
+    border-radius: 4px;
+    padding-left: 5px;
+    height:20px;
+   
+}
+.password{
+    width: 293px;
+    margin-top: 5px;
+    border-radius: 4px;
+    padding-left: 5px;
+    height:20px;
+}
+.birthday{
+    font-weight: bold;
+    color: grey;
+    font-size: 12px;
+    margin-top: 21px;
+}
+.date{
+
+}
+.datebox{
+    margin-top: -9px;
+}
+.gender{
+    font-weight: bold;
+    color: grey;
+    font-size: 13px;
+    margin-top: 21px;
+}
+.family{
+
+}
+
+a{
+    text-decoration: none;
+}
+.para{
+    font-size: 12px;
+}
+.signup{
+    background-color: green;
+    color: #fff;
+    width: 150px;
+    height:30px;
+    border-radius: 5px;
+    border-color: green;
+    margin-top:5px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+
+
+}
+.signup:hover{
+
+}
+.para1{
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.footer-top-para { 
+    text-decoration-line: none;
+    text-align: center;
+    width: auto;
+    color: blue;
+    font-size: 12px;
+    height: 30px;
+    cursor: pointer;
+}
+.bottom-footer{
+    text-align: center;
+    color: blue;
+    font-size: 12px;
+    width: auto;
+    margin-top:30px;
+    word-spacing: 3px;
+    cursor: pointer;
+    
+}
+.footer{
+
+}
+.facebook{
+    font-size: 13px;
+    color:grey;
+   text-align:center;
+   cursor: pointer;
+}
